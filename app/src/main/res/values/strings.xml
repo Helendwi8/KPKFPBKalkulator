@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KpkFpbKalkulator</string>
+    <string name="bilangan_1">\@string/bilangan_1</string>
+    <string name="bilangan_2">\@string/bilangan_2</string>
+    <string name="hitung_fpb_dan_kpk">\@string/hitung_fpb_dan_kpk</string>
+    <string name="menghitung_fpb_dan_kpk_menggunakan_algoritma_euclidean">\@string/menghitung_fpb_dan_kpk_menggunakan_algoritma_euclidean</string>
+    <string name="fpb_faktor_persekutuan_besar">\@string/fpb_faktor_persekutuan_besar</string>
+    <string name="kpk_kelipatan_persekutuan_kecil">\@string/kpk_kelipatan_persekutuan_kecil</string>
+    <string name="menghitung_kpk_dan_fpb">Menghitung KPK dan FPB!</string>
+</resources>
